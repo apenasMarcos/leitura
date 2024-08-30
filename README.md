@@ -189,6 +189,9 @@ public class Logger {
 }
 ```
 
+isso seria correto ao inves de usar simplesmente um new Logger();
+
+
 - Padrão de design Observer
 Eu aplico o padrão de design Observer em meu código criando uma classe que notifica os observadores quando um evento ocorre.
 
